@@ -14,6 +14,12 @@
         android:theme="@style/Theme.BasicsOfCompose"
         tools:targetApi="31">
         <activity
+            android:name=".SimpleTextFieldButtonActivity"
+            android:exported="false"
+            android:label="@string/title_activity_simple_text_field_button"
+            android:theme="@style/Theme.BasicsOfCompose" />
+
+        <activity
             android:name=".SimpleStateActivity"
             android:exported="false"
             android:label="@string/title_activity_simple_state"

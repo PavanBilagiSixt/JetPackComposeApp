@@ -4,4 +4,5 @@
     <string name="title_activity_simple_card">SimpleCardActivity</string>
     <string name="title_activity_simple_styling_text">SimpleStylingTextActivity</string>
     <string name="title_activity_simple_state">SimpleStateActivity</string>
+    <string name="title_activity_simple_text_field_button">SimpleTextFieldButtonActivity</string>
 </resources>
